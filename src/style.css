@@ -1,0 +1,9 @@
+.react-autosuggest__suggestions-list {
+    background: white;
+    list-style: none;
+    box-shadow: 0px 1px 2px silver;
+    width: 50%;
+    margin: auto;
+    max-height: 200px;
+    overflow-y: auto;
+}
